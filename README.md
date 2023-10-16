@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ynslee" alt="ynslee" /></a> </p>
 
-- 🧊 I’m currently working on [Cub3D](https://github.com/ynslee/cub3d)
+- ∛ I’m currently working on [Cub3D](https://github.com/ynslee/cub3d)
 
 - 🌱 I’m currently learning **C, C++, General Frontend Development**
 
-- 🫂 I have collaborated on [Minishell](https://github.com/ynslee/minishell42)
+- 🤹🏻‍♀️ I have collaborated on [Minishell](https://github.com/ynslee/minishell42)
 
 - 🍽️ I have worked on feeding [Philosopher](https://github.com/ynslee/philo)
 
