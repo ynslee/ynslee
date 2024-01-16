@@ -1,14 +1,12 @@
 <h1 align="center">Hello! Welcome to Yoonseon's Github👩🏻‍💻</h1>
 <h3 align="center">Studying Software development in Hive Helsinki🐝</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ynslee" alt="ynslee" /></a> </p>
-
-- ∛ I’m currently working on [Cub3D](https://github.com/ynslee/cub3d)
+- ∛ I’m currently working on [CPP Modules]()
 
 - 🌱 I’m currently learning **C, C++, General Frontend Development**
 
 - 🤹🏻‍♀️ I have collaborated on [Minishell](https://github.com/ynslee/minishell42)
-
+    and [Cub3D](https://github.com/ynslee/cub3d)
 - 🍽️ I have worked on feeding [Philosopher](https://github.com/ynslee/philo)
 
 - ⚡ Fun fact I can't talk anything without mentioning my dog 🐕. Did I mention his name is Chuchi?
