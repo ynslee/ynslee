@@ -3,7 +3,7 @@
 
 - ∛ I’m currently working on [CPP Modules](https://github.com/ynslee/cpp)
 
-- 🌱 I’m currently learning **C, C++, General Frontend Development**
+- 🌱 I’m currently learning **C, C++, General Backend Development**
 
 - 🤹🏻‍♀️ I have collaborated on [Minishell](https://github.com/ynslee/minishell42)
     and [Cub3D](https://github.com/ynslee/cub3d)
