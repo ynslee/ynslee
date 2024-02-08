@@ -1,7 +1,7 @@
 <h1 align="center">Hello! Welcome to Yoonseon's Github👩🏻‍💻</h1>
 <h3 align="center">Studying Software development in Hive Helsinki🐝</h3>
 
-- ∛ I’m currently working on [FT_IRC][(https://github.com/ynslee/ft_irc)]
+- ∛ I’m currently working on **[FT_IRC](https://github.com/ynslee/ft_irc)**
 
 - 🌱 I’m currently learning **C, C++, General Backend Development**
 
