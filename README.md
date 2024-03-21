@@ -1,7 +1,7 @@
 <h1 align="center">Hello! Welcome to Yoonseon's Github👩🏻‍💻</h1>
 <h3 align="center">Studying Software development in Hive Helsinki🐝</h3>
 
-- ∛ I’m currently working on **[ft_irc](https://github.com/ynslee/ft_irc)** and [CPP Modules](https://github.com/ynslee/CPP-Modules)
+- ∛ I’m currently working on **[CPP Modules](https://github.com/ynslee/CPP-Modules)**
 
 - 🌱 I’m currently learning **C, C++, General Backend Development**
 
