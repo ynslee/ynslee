@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, C++, General Backend Development**
 
-- 🤹🏻‍♀️ I have collaborated on [Minishell](https://github.com/ynslee/minishell42)
+- 🤹🏻‍♀️ I have collaborated on [ft_irc]([https://github.com/ynslee/minishell42](https://github.com/ynslee/ft_irc)
     and [Cub3D](https://github.com/ynslee/cub3d)
 - 🍽️ I have worked on feeding [Philosopher](https://github.com/ynslee/philo)
 
