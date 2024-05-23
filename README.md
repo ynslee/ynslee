@@ -1,12 +1,12 @@
 <h1 align="center">Hello! Welcome to Yoonseon's Github👩🏻‍💻</h1>
 <h3 align="center">Studying Software development in Hive Helsinki🐝</h3>
 
-- ∛ I’m currently working on **[CPP Modules](https://github.com/ynslee/CPP-Modules)**
+- ∛ I have projects that are based on **C, C++, and Python**
 
-- 🌱 I’m currently learning **C, C++, General Backend Development**
+- 🌱 I’m currently making tiny projects based on Kotlin, Javascript, and python.
 
-- 🤹🏻‍♀️ I have collaborated on [ft_irc](https://github.com/ynslee/ft_irc)
-    and [Cub3D](https://github.com/ynslee/cub3d)
+- 🤹🏻‍♀️ I have collaborated on **[ft_irc](https://github.com/ynslee/ft_irc)**
+    and **[Cub3D](https://github.com/ynslee/cub3d)**
 - 🍽️ I have worked on feeding [Philosopher](https://github.com/ynslee/philo)
 
 - ⚡ Fun fact I can't talk anything without mentioning my dog 🐕. Did I mention his name is Chuchi?
