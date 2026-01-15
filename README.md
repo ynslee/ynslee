@@ -3,7 +3,7 @@
 
 - ∛ I have projects that are based on **C, C++, and Python**
 
-- 🌱 I’m currently learning SQL, kotlin and javascript.
+- 🌱 I’m currently developing an app.
 
 - 🤹🏻‍♀️ I have collaborated on **[ft_irc](https://github.com/ynslee/ft_irc)**
     and **[Cub3D](https://github.com/ynslee/cub3d)**
